@@ -1,0 +1,82 @@
+20:32:10 From  syed asgarahamed  to  Edureka Instructor(Direct Message):
+	Hi, Session started? I can not  hear or see anything
+20:33:06 From  Banupriya Palanisamy  to  Edureka Instructor(Direct Message):
+	Hi Jitin, are you started the session? I am not able to hear anything. just to make sure that any audio issue from my end
+20:33:47 From  Banupriya Palanisamy  to  Edureka Instructor(Direct Message):
+	Okay, Fine. 
+20:38:27 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	I cant hear anything...Is the class started
+20:38:28 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	?
+20:58:58 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	can we do it in visual studio?
+20:59:19 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	instead of code
+20:59:55 From  Edureka Instructor  to  Everyone:
+	https://code.visualstudio.com/
+21:00:19 From  Edureka Instructor  to  Everyone:
+	azure arm
+21:08:13 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	reinstall vs code
+21:10:41 From  Edureka Instructor  to  Everyone:
+	azure arm
+21:10:48 From  Edureka Instructor  to  Everyone:
+	https://learn.microsoft.com/en-us/azure/templates/
+21:23:44 From  Edureka Instructor  to  Everyone:
+	{	    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",	    "contentVersion": "1.0.0.0",	    "parameters": {"storageAccountName": {	        "type": "string",	        "metadata": {	            "description": "Storage Account Name"	        },	        "minLength":3,	        "maxLength":24	    }},	    "functions": [],	    "variables": {},	    "resources": [{	        "name": "[parameters('storageAccountName')]",	        "type": "Microsoft.Storage/storageAccounts",	        "apiVersion": "2021-04-01",	        "tags": {	            "displayName": "storageaccount1"	        },	        "location": "[resourceGroup().location]",	        "kind": "StorageV2",	        "sku": {	            "name": "Premium_LRS",	            "tier": "Premium"	        }	    }],	    "outputs": {}	}
+21:23:50 From  Edureka Instructor  to  Everyone:
+	{	    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",	    "contentVersion": "1.0.0.0",	    "parameters": {	        "storageAccountName": {	            "value": "jitistorageacount0403" 	        }	        	    }	}
+21:29:23 From  Edureka Instructor  to  Everyone:
+	az group create --name arm-vscode --location eastus
+21:30:19 From  Edureka Instructor  to  Everyone:
+	https://aka.ms/installazurecliwindows
+21:42:16 From  Edureka Instructor  to  Everyone:
+	arm!
+21:43:18 From  Edureka Instructor  to  Everyone:
+	az group create --name arm-vscode --location eastus			az deployment group create --resource-group arm-vscode --template-file {template-file} --parameter {[parameter}
+21:44:06 From  Edureka Instructor  to  Everyone:
+	https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/quickstarts/microsoft.storage/storage-account-create/azuredeploy.json
+21:56:28 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	what will happen when we have more than 1 rg in our azure which one will it pickup...when resourcegroup().location
+21:57:31 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	yes
+21:58:23 From  aakash kumar  to  Edureka Instructor(Direct Message):
+	During deployment we are not mentioning subscription name. How is the subscription selected?
+21:58:27 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	so for every rg we will have to create seperate arm file
+21:59:46 From  aakash kumar  to  Edureka Instructor(Direct Message):
+	Yes. got it
+22:01:04 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	yes
+22:01:07 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	thanx
+22:06:31 From  Edureka Instructor  to  Everyone:
+	We're on a break	We'll start at 10:30PM
+22:29:25 From  Edureka Instructor  to  akshay srivastava(Direct Message):
+	we're about to start guys
+22:29:33 From  Edureka Instructor  to  Everyone:
+	we're about to start guys
+22:39:16 From  Edureka Instructor  to  Everyone:
+	az group create --name az204-vault-rg --location eastus
+23:04:08 From  Edureka Instructor  to  Everyone:
+	https://go.microsoft.com/fwlink/?linkid=2174087
+23:09:41 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	Why function app required?
+23:12:34 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Can you share the lab link ?
+23:12:40 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Thanks 
+23:35:04 From  Edureka Instructor  to  Everyone:
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_07.html
+23:36:12 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	If we have key vaults for different environment say Dev/QA should that key/value, be manually added in all environments or is there a way to copy from one vault to another?
+23:37:12 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Thanks !!!
+23:38:25 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Will we be using azure redis cache ?
+23:38:36 From  revathy l  to  Edureka Instructor(Direct Message):
+	thank you
+23:38:39 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Ok, Thanks :)
+23:38:42 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Good Night !

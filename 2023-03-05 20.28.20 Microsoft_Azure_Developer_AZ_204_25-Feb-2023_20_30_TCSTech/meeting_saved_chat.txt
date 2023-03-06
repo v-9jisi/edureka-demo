@@ -1,0 +1,95 @@
+20:28:20 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	Hi Jitin ... my class 2 learning is showing only 22 min
+20:28:36 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	i have attended full class
+20:57:10 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	Is there any other option available for caching ... other than Redis
+20:58:09 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	ok thanks :)
+21:01:40 From  Edureka Instructor  to  Everyone:
+	az group create --name rediscache1 --location eastus
+21:04:27 From  Edureka Instructor  to  Everyone:
+	az redis create --location eastus --name myrediscachejitin --resource-group rediscache1 --sku Basic  --vm-size c0
+21:05:04 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	meeting chat is readonly, unable to copy content, pls help
+21:10:04 From  karampal .  to  Edureka Instructor(Direct Message):
+	Resource provider 'Microsoft.Cache' used by this operation is not registered. We are registering for you.
+	Registration succeeded.
+21:10:30 From  karampal .  to  Edureka Instructor(Direct Message):
+	I got this message after running 2nd command
+21:21:57 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	pls add me also as cohost, so i can also do copy from chat
+21:22:15 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	thanks
+21:32:39 From  karampal .  to  Edureka Instructor(Direct Message):
+	HTTP Error 502.5 - Process Failure
+	
+	Common causes of this issue:
+	The application process failed to start
+	The application process started but then stopped
+	The application process started but failed to listen on the configured port
+	
+	Troubleshooting steps:
+	Check the system event log for error messages
+	Enable logging the application process' stdout messages
+	Attach a debugger to the application process and inspect
+	
+	For more information visit: https://go.microsoft.com/fwlink/?LinkID=808681
+21:39:58 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	can we do this development using java?
+21:45:41 From  Edureka Instructor  to  Everyone:
+	dotnet new console -o Rediscache
+21:45:48 From  Edureka Instructor  to  Everyone:
+	\
+21:46:41 From  Edureka Instructor  to  Everyone:
+	dotnet add package StackExchange.Redis
+21:47:02 From  Edureka Instructor  to  Everyone:
+	using StackExchange.Redis;	using System.Threading.Tasks;
+21:47:05 From  Edureka Instructor  to  Everyone:
+	// connection string to your Redis Cache    	static string connectionString = "REDIS_CONNECTION_STRING";
+21:47:10 From  Edureka Instructor  to  Everyone:
+	static async Task Main(string[] args)	{	    // The connection to the Azure Cache for Redis is managed by the ConnectionMultiplexer class.	    using (var cache = ConnectionMultiplexer.Connect(connectionString))	    {	        IDatabase db = cache.GetDatabase();		        // Snippet below executes a PING to test the server connection	        var result = await db.ExecuteAsync("ping");	        Console.WriteLine($"PING = {result.Type} : {result}");		        // Call StringSetAsync on the IDatabase object to set the key "test:key" to the value "100"	        bool setValue = await db.StringSetAsync("test:key", "100");	        Console.WriteLine($"SET: {setValue}");		        // StringGetAsync takes the key to retrieve and return the value	        string getValue = await db.StringGetAsync("test:key");	        Console.WriteLine($"GET: {getValue}");		    }	}
+21:53:07 From  saroj rameshmeshram  to  Edureka Instructor(Direct Message):
+	Can we see the data in cache in azure portal ?
+22:12:49 From  Edureka Instructor  to  saroj rameshmeshram(Direct Message):
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_12.html
+22:12:54 From  Edureka Instructor  to  Everyone:
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_12.html
+22:33:56 From  Edureka Instructor  to  Everyone:
+	https://contenthostjitin1.blob.core.windows.net/video/welcome.mp4
+22:48:50 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Should that be /media/filename ?
+22:51:17 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Usually it take sometime to propagate in CDN ?
+22:52:45 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	hi Jitin can u pls share me that zip file again , i have  recoonected 
+23:05:38 From  Edureka Instructor  to  Everyone:
+	https://contenthostjitin1.blob.core.windows.net/media/campus.jpg
+23:15:54 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	When new contents are added should that be restarted or wait for sometime to resolve ?
+23:16:04 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	I mean cdn
+23:17:02 From  Edureka Instructor  to  melvin selvaraj(Direct Message):
+	https://contenthostjitin1.blob.core.windows.net/media/campus.jpg
+23:19:07 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Yes
+23:19:14 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	sorry my mic is not working
+23:21:28 From  Edureka Instructor  to  Everyone:
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_07.html	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_12.html				CDN & Redis	https://learn.microsoft.com/en-us/training/paths/az-204-integrate-caching-content-delivery-within-solutions/		KeyVault and IAM	https://learn.microsoft.com/en-us/training/paths/az-204-implement-secure-cloud-solutions/
+23:23:41 From  Edureka Instructor  to  Everyone:
+	Deploy 2 Vms		windows		Ubuntu				ARM Templates	GUI			https://github.com/v-9jisi/edureka-demo
+23:24:09 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	ARM can be for either right ?
+23:24:15 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	For linux or windows ?
+23:24:36 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Oh k in a single json right ?
+23:24:50 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Ok 
+23:24:51 From  mubeena gulshaik  to  Edureka Instructor(Direct Message):
+	where we can share the screenshots
+23:25:18 From  mubeena gulshaik  to  Edureka Instructor(Direct Message):
+	Ok thank you
+23:28:13 From  anoop mathewgeorge  to  Edureka Instructor(Direct Message):
+	bye

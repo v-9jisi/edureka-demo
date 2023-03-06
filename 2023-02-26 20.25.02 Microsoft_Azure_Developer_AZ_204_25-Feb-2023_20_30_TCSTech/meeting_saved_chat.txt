@@ -1,0 +1,61 @@
+20:25:02 From  shailendra bhadoriya  to  Edureka Instructor(Direct Message):
+	Hi for the yesterday session are we need to do any hands-on or assignment?
+	
+	We did in the class room itself only
+20:32:44 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Yes
+20:58:22 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	can we perform bulk user upload with role assignment?
+21:00:31 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	from where did u download this csv...sorry i missed
+21:00:51 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	yes
+21:00:53 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	thanks
+21:23:31 From  Edureka Instructor  to  Everyone:
+	https://learn.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+21:51:13 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	yes
+21:51:19 From  shailendra bhadoriya  to  Edureka Instructor(Direct Message):
+	Java
+21:51:26 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	C#
+21:58:33 From  revathy l  to  Edureka Instructor(Direct Message):
+	Hi Jitin
+21:58:38 From  revathy l  to  Edureka Instructor(Direct Message):
+	revathy.l@alal01live.onmicrosoft.com
+	Welcome12345678
+21:58:50 From  revathy l  to  Edureka Instructor(Direct Message):
+	This was the user account created for me 
+21:59:25 From  revathy l  to  Edureka Instructor(Direct Message):
+	i am unable to login with it in azure portal. how can i login ?
+21:59:26 From  Edureka Instructor  to  Everyone:
+	Break of 30 minutes 	We'll back at 10:20 PM IST
+21:59:33 From  Edureka Instructor  to  revathy l(Direct Message):
+	Password is
+21:59:43 From  Edureka Instructor  to  revathy l(Direct Message):
+	Welcome@12345678
+21:59:43 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	for exam also we can use any language ?
+22:00:07 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	ok, Thanks
+22:01:04 From  revathy l  to  Edureka Instructor(Direct Message):
+	okay. tried with this password. not working.
+22:01:34 From  Edureka Instructor  to  revathy l(Direct Message):
+	I'll reset the password
+22:02:20 From  Edureka Instructor  to  revathy l(Direct Message):
+	Copo1445
+22:02:25 From  Edureka Instructor  to  revathy l(Direct Message):
+	please try this one
+22:03:28 From  revathy l  to  Edureka Instructor(Direct Message):
+	sure.thank you. please let me know once done. 
+22:04:17 From  revathy l  to  Edureka Instructor(Direct Message):
+	it works now. thank you!!
+22:05:13 From  Edureka Instructor  to  revathy l(Direct Message):
+	Reacted to "it works now. thank ..." with 👏
+22:48:29 From  Edureka Instructor  to  Everyone:
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_06.html
+23:05:49 From  Edureka Instructor  to  mubeena gulshaik(Direct Message):
+	Zofo2326
+23:13:54 From  Edureka Instructor  to  Everyone:
+	https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure

@@ -1,0 +1,167 @@
+20:19:09 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	India
+20:19:11 From  saroj rameshmeshram  to  Edureka Instructor(Direct Message):
+	IST
+20:21:24 From  saroj rameshmeshram  to  Edureka Instructor(Direct Message):
+	Will we get the recordings of the session ?
+20:21:40 From  Edureka Instructor  to  saroj rameshmeshram(Direct Message):
+	Yes Saroj	you can find it on LMS Portal
+20:21:56 From  Edureka Instructor  to  saroj rameshmeshram(Direct Message):
+	I'll guide you through the LMS in a bit
+20:22:24 From  saroj rameshmeshram  to  Edureka Instructor(Direct Message):
+	ok. Thank you.
+20:35:08 From  mubeena gulshaik  to  Edureka Instructor(Direct Message):
+	Hi Am unable to here any thing
+20:35:28 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Yes you are audible
+20:36:10 From  karampal .  to  Edureka Instructor(Direct Message):
+	I was able to hear
+20:36:12 From  karampal .  to  Edureka Instructor(Direct Message):
+	sir
+20:37:25 From  Edureka Instructor  to  Everyone:
+	portal.azure.com
+20:39:00 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	can i use tcs mail . Not allowing to use other email ids . Blocked by TCS IT
+20:39:36 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	we do this now or in break?
+20:40:20 From  Vijay Fulsing Rajput  to  Edureka Instructor(Direct Message):
+	while trying to create new account at the moment its been blocked.
+20:48:20 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	voice breaking for me
+20:48:52 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	yes
+20:48:53 From  karampal .  to  Edureka Instructor(Direct Message):
+	sometmes its happening
+21:16:13 From  Banupriya Palanisamy  to  Edureka Instructor(Direct Message):
+	subscriptions are nothing but the pay as go ?
+21:19:20 From  Banupriya Palanisamy  to  Edureka Instructor(Direct Message):
+	yes
+21:21:11 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	can we have 1 Resource Group inside another Resource Group?
+21:22:03 From  akshay srivastava  to  Edureka Instructor(Direct Message):
+	thanks
+21:22:44 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	session getting disconnected multiple times. Is this only for me ?
+21:23:04 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Disconnected 
+21:23:08 From  melvin selvaraj  to  Edureka Instructor(Direct Message):
+	Now its back 
+21:45:19 From  rajdeep guha  to  Edureka Instructor(Direct Message):
+	am i audible?
+21:45:42 From  manasi pandit  to  Edureka Instructor(Direct Message):
+	Can you please edit the recording as it has my personal details like Pancard?
+21:45:56 From  rajdeep guha  to  Edureka Instructor(Direct Message):
+	should i select pay as  you go or free account?
+21:46:31 From  manasi pandit  to  Edureka Instructor(Direct Message):
+	i miss to pause recording
+21:50:30 From  Edureka Instructor  to  Vijay Fulsing Rajput(Direct Message):
+	vijayrajput@alal01live.onmicrosoft.com
+21:50:35 From  Edureka Instructor  to  Vijay Fulsing Rajput(Direct Message):
+	Welcome@123
+21:50:54 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	hi
+21:50:57 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	i tried with 2 debit cards. It doesnt work . is credit card mandatory ?
+21:51:08 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	Can I use devops playground which gives access to the azure portal for handson instead of creating a account? I have subscription to kodecloud
+21:51:16 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	i'm facing this issue
+21:51:17 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	Sign in
+	Sorry, but we’re having trouble signing you in.
+	
+	AADSTS50011: The redirect URI 'https://signup.azure.com/api/user/logout' specified in the request does not match the redirect URIs configured for the application '8e0e8db5-b713-4e91-98e6-470fed0aa4c2'. Make sure the redirect URI sent in the request matches one added to your application in the Azure portal. Navigate to https://aka.ms/redirectUriMismatchError to learn more about how to fix this.
+21:51:23 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	thanks
+21:52:04 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	Debit card is not allowing . Tried 2 different banks
+21:52:11 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	can i use credit card
+21:52:53 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	hi ,
+	Cardholder Name
+	Keerthi sahasra kiran
+	Check the info you entered. It doesn't match the info for this card.
+21:53:06 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	im getting this error for two cards 
+21:53:41 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	visa
+21:54:04 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	for me it asked up to OTP and submitted. But got error at last as not authorized
+21:54:29 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	let me try to give the same name in microsoft account
+21:58:34 From  manasi pandit  to  Edureka Instructor(Direct Message):
+	Can you please confirm me, if it is possible?
+21:59:07 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	logged in by credit card
+21:59:14 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	issue solved i guess
+22:01:32 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	hi i missed some class due to internet issue
+22:01:40 From  akhil koramani  to  Edureka Instructor(Direct Message):
+	can i get recording
+22:03:50 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	no one is speaking ...
+22:04:01 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	it's a break time?
+22:04:13 From  Edureka Instructor  to  akhil koramani(Direct Message):
+	Yes Akhil	Recording will be available on the LMS Portal
+22:04:28 From  Edureka Instructor  to  shailendra singhbhadoriya(Direct Message):
+	Yes Shailendra	We're having 30 minutes break
+22:04:37 From  Edureka Instructor  to  shailendra singhbhadoriya(Direct Message):
+	be right back at 10:30 PM
+22:05:21 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	ok
+22:07:14 From  Edureka Instructor  to  Everyone:
+	We're on a break of 30 minutes.	Please be right back at 10:30 PM IST.	We'll continue with our Hands-On training
+22:25:45 From  manasi pandit  to  Edureka Instructor(Direct Message):
+	bck
+22:44:55 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	For me free tier not works . So no idea how to continue this course
+22:45:33 From  sandeep vg  to  Edureka Instructor(Direct Message):
+	ok
+22:46:06 From  anoop mathewgeorge  to  Edureka Instructor(Direct Message):
+	Can you create one use for me as well pls
+22:57:19 From  Edureka Instructor  to  manasi pandit(Direct Message):
+	https://aka.ms/installazurecliwindows
+22:57:25 From  Edureka Instructor  to  Everyone:
+	https://aka.ms/installazurecliwindows
+22:59:52 From  Edureka Instructor  to  Everyone:
+	https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+23:12:58 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	using CLI can we create N number of VM or resources in one go?
+23:14:05 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	ok thanks:)
+23:19:54 From  apoorva ajitpawaskar  to  Edureka Instructor(Direct Message):
+	Can u please share the link
+23:20:59 From  Edureka Instructor  to  Everyone:
+	https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_05.html
+23:28:47 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	could u pls show how to delete resource grp
+23:29:51 From  Edureka Instructor  to  Everyone:
+	az group delete --name {resourceGroupName} --no-wait --yes
+23:31:32 From  sahasra kirankeerthi  to  Edureka Instructor(Direct Message):
+	i guess its better to use personal laptops instead of tcs laptops for all activities 
+23:32:48 From  revathy l  to  Edureka Instructor(Direct Message):
+	I have payment issue while registering free account . I raised a request with azure support. 
+23:33:30 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	not able to delete rg
+23:34:19 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	i want o delete rersource froup
+23:34:23 From  shailendra singhbhadoriya  to  Edureka Instructor(Direct Message):
+	group
+23:36:34 From  Edureka Instructor  to  anoop mathewgeorge(Direct Message):
+	Anoop.Mathewgeorge@alal01live.onmicrosoft.com
+23:36:49 From  Edureka Instructor  to  sandeep vg(Direct Message):
+	Sandeep.vg@alal01live.onmicrosoft.com
+23:37:55 From  Edureka Instructor  to  revathy l(Direct Message):
+	revathy.l@alal01live.onmicrosoft.com
+23:37:56 From  chiranjeevi nagaviswadeepgorantla  to  Edureka Instructor(Direct Message):
+	I haven't created any resource group as of now. Just signed up.
+	Nothing to delete right?
+23:38:22 From  chiranjeevi nagaviswadeepgorantla  to  Edureka Instructor(Direct Message):
+	okay, Thanks
+23:38:30 From  revathy l  to  Edureka Instructor(Direct Message):
+	thank you
+23:39:01 From  pankaj kashiramchaudhari  to  Edureka Instructor(Direct Message):
+	Thanks a lot
